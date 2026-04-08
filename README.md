@@ -1,7 +1,5 @@
 # w-alloy-elastic-properties
 Master ML project
-# W-Alloy Elastic Property Prediction
-
 This project investigates the elastic properties of W-based alloys 
 (W-Ta, W-Nb, W-Mo) using atomistic simulations with UMA potentials(task name = "OMAT", predictor = "uma-s-1p1").
 
